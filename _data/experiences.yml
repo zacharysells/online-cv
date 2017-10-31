@@ -1,33 +1,45 @@
 - experience:
-  role: Software/Dev-Ops Freelancer 
+  role: Software/DevOps Freelancer 
   time: September 2017 - Present
   company: Upwork
-  details: "•	Public profile: https://www.upwork.com/o/profiles/users/_~01d20b6030f8f9a8a0/
-•	Built Django web application that displays information about all AWS resources within a VPC
-•	Created ECS cluster on AWS via Terraform and installed Jupyterhub services
-•	Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
-"
+  details: 
+    - Built Django web application that displays information about all AWS resources within a VPC
+    - Created ECS cluster on AWS via Terraform and installed Jupyterhub services
+    - Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
+
 - experience:
   role: CloudOps Engineer
   time: April 2017 - Present
   company: EverOps LLC, Remote
-  details: "•	Managed production resources for multiple clients with vastly different sizes and technology stacks
-•	Worked with database administrators to automate backup monitoring database optimization
-•	Automated and normalize the process of creating new single-tenant environments by writing a Terraform module
-•	Created new JIRA workflow to streamline the lifecycle of a particular ticket type
-•	Lead projects for multiple clients to reduce overall AWS spend by finding wastage and identifying S3 buckets 
-"
+  details: 
+    - Managed production resources for multiple clients with vastly different sizes and technology stacks
+    - Worked with database administrators to automate backup monitoring database optimization
+    - Automated and normalize the process of creating new single-tenant environments by writing a Terraform module
+    - Created new JIRA workflow to streamline the lifecycle of a particular ticket type
+    - Lead projects for multiple clients to reduce overall AWS spend by finding wastage and identifying S3 buckets 
+
 - experience:
-  role: Software/Dev-Ops Engineer
+  role: Software/DevOps Engineer
   time: July 2015 – April 2017
   company: Knuedge Inc., San Diego, CA
-  details: "•	Migrate application deployment and development to Docker containers to simplify and accelerate application deployment
-•	Create and maintain AWS cloud infrastructure in Docker containers using Terraform
-•	Responsible for continuous server availability and data integrity
-•	Setup continuous integration development workflows involving testing, releasing, and deploying
-•	Develop Python HTTP API to support voice authentication solutions
-•	Work on a NodeJS server that uses our voice API to provide secure authentication into a 3rd party app
-•	Reduce storage requirements by adding compression to the storage engine
-•	Improve application security by encrypting communication channels for queuing system and other external connections
-•	Maintain public github repositories for SDKs and CLIs that utilize our voice API
-"
+  details: 
+    - Migrate application deployment and development to Docker containers to simplify and accelerate application deployment
+    - Create and maintain AWS cloud infrastructure in Docker containers using Terraform
+    - Responsible for continuous server availability and data integrity
+    - Setup continuous integration development workflows involving testing, releasing, and deploying
+    - Develop Python HTTP API to support voice authentication solutions
+    - Work on a NodeJS server that uses our voice API to provide secure authentication into a 3rd party app
+    - Reduce storage requirements by adding compression to the storage engine
+    - Improve application security by encrypting communication channels for queuing system and other external connections
+    - Maintain public github repositories for SDKs and CLIs that utilize our voice API
+
+- experience:
+  role: Software Developer
+  time: June 2014 - August 2014
+  company: Jethead Development Inc. Carlsbad, CA
+  details:
+    - Developed and debugged C++ middle-ware for Set-top box integration
+    - Fixed issues with low level graphics engine that allowed us to pass RVU2 protocol specification
+    - Facilitated the development of software among our team using the Git version control system
+    - Trained new employees to prepare them for code development.
+    - Participated in daily SCRUM meetings with both developers and managers

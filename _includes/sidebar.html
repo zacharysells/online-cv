@@ -31,11 +31,15 @@
            {% endif %}
 
            {% if site.linkedin %}
-           <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
+           <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin.id}}" target="_blank">{{site.linkedin.display}}</a></li>
            {% endif %}
 
            {% if site.github %}
            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+           {% endif %}
+
+           {% if site.upwork %}
+           <li class="github"><i class="fa fa-building"></i><a href="https://www.upwork.com/o/profiles/users/{{site.upwork.id}}/" target="_blank">{{site.upwork.display}}</a></li>           
            {% endif %}
 
            {% if site.twitter %}

@@ -57,6 +57,13 @@ p {
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+.list-columns-ul {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+
 .sidebar-wrapper {
   background: #42A8C0;
   position: absolute;
