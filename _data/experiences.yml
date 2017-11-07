@@ -6,6 +6,7 @@
     - Built Django web application that displays information about all AWS resources within a VPC
     - Created ECS cluster on AWS via Terraform and installed Jupyterhub services
     - Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
+    - Developed python script to generate AWS RedShift queries, helping automate data ingestion from S3
 
 - experience:
   role: CloudOps Engineer
