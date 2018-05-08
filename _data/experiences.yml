@@ -15,9 +15,10 @@
   details: 
     - Managed production resources for multiple clients with vastly different sizes and technology stacks
     - Worked with database administrators to automate backup monitoring database optimization
-    - Automated and normalize the process of creating new single-tenant environments by writing a Terraform module
+    - Automated and normalized the process of creating new single-tenant environments by writing a Terraform module
     - Created new JIRA workflow to streamline the lifecycle of a particular ticket type
-    - Lead projects for multiple clients to reduce overall AWS spend by finding wastage and identifying S3 buckets 
+    - Lead projects for multiple clients to reduce overall AWS spend by finding wastage and identifying unused S3 buckets
+    - Migrated openswan IPSEC tunnels to AWS VPC peering connections for redundancy and easier maintainability
 
 - experience:
   role: Software/DevOps Engineer
