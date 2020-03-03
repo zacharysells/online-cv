@@ -1,24 +1,40 @@
 - experience:
-  role: Software/DevOps Freelancer 
-  time: September 2017 - Present
-  company: Upwork
-  details: 
-    - Built Django web application that displays information about all AWS resources within a VPC
-    - Created ECS cluster on AWS via Terraform and installed Jupyterhub services
-    - Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
-    - Developed python script to generate AWS RedShift queries, helping automate data ingestion from S3
+  role: Principal DevOps Engineer 
+  time: April 2019 - Present
+  company: AutoGrid Systems, Remote
+  details:
+    - Maintained dozens of complex production and development environments built on/managed by EC2, EKS, Rancher, Terraform, and Ansible
+    - Implemented and rolled out globally distributed identity provider RedHat FreeIPA to facilitate centralized user management and RBAC
+    - Migrated VPN authentication scheme from local user database to LDAP
+    - Used Rancher to introduce RBAC into Kubernetes API access.
+    - Introduced elasticsearch/kibana and fluentd stack(EK) to stream logs from Kubernetes clusters
+    - Created custom EFS provisioner for Kubernetes to allow for simplified persistent volume creation and management.
+    - Environment upgrades - rebuilt legacy environments under terraform code while keeping data and networking connections in tact to avoid customer disruption
+    - Significantly reduced AWS spend by identifying unused resources, creating reports/alerts when non-standard resources are created
 
 - experience:
-  role: CloudOps Engineer
-  time: April 2017 - Present
+  role: Senior CloudOps Engineer
+  time: April 2017 - April 2019
   company: EverOps LLC, Remote
   details: 
-    - Managed production resources for multiple clients with vastly different sizes and technology stacks
+    - Managed production resources for multiple clients of vastly different sizes and technology stacks
+    - Developed client agnostic task scheduler to run docker images on a scheduled interval
     - Worked with database administrators to automate backup monitoring database optimization
     - Automated and normalized the process of creating new single-tenant environments by writing a Terraform module
     - Created new JIRA workflow to streamline the lifecycle of a particular ticket type
     - Lead projects for multiple clients to reduce overall AWS spend by finding wastage and identifying unused S3 buckets
     - Migrated openswan IPSEC tunnels to AWS VPC peering connections for redundancy and easier maintainability
+
+- experience:
+  role: Software/DevOps Freelancer 
+  time: September 2017 - Ongoing
+  company: Upwork
+  details: 
+    - Built Django web application that displays information about all AWS resources within a VPC
+    - Created ECS cluster on AWS via Terraform and installed Jupyterhub services
+    - Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
+    - Provided one-on-one private instruction on webservice development, configuration managment, and various other operational technologies
+    - Developed python script to generate AWS RedShift queries, helping automate data ingestion from S3
 
 - experience:
   role: Software/DevOps Engineer

@@ -13,6 +13,10 @@
        <h3 class="tagline">{{site.tagline}}</h3>
        {% endif %}
 
+       {% if site.location %}
+       <h2 class="tagline">{{site.location}}</h2>
+       {% endif %}
+
    </div><!--//profile-container-->
 
    <div class="contact-container container-block">
@@ -46,6 +50,7 @@
    </div><!--//contact-container-->
 
   {% include education.html %}
+  {% include certifications.html %}
   {% include language.html %}
   {% include interests.html %}
   {% include about.html %}

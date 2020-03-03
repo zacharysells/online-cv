@@ -1,8 +1,17 @@
 - skill:
+  name: AWS
+  level: 95%
+- skill:
   name: Python
   level: 95%
 - skill:
+  name: Kubernetes
+  level: 95%
+- skill:
   name: Terraform
+  level: 95%
+- skill:
+  name: Ansible
   level: 95%
 - skill:
   name: Docker
@@ -11,19 +20,13 @@
   name: Docker Compose
   level: 95%
 - skill:
-  name: AWS
-  level: 95%
-- skill:
   name: Git
   level: 95%
-- skill:
-  name: Kubernetes
-  level: 85%
 - skill:
   name: Bash
   level: 85%
 - skill:
-  name: Ansible
+  name: CDH Managment(Hadoop Hbase and HDFS)
   level: 70%
 - skill:
   name: C++

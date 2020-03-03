@@ -13,16 +13,19 @@ style: styles-6
 #Profile information
 name: Zachary Sells
 tagline: DevOps/Software Engineer
+location: San Diego, CA
 pic: profile.png 
 summary: "I started my career as a software engineer developing python APIs. \
 Our small team had the need to deploy our application publicly on the cloud. \
-That's when I got into the DevOps/CloudOps space using Docker, Terraform, and AWS. \
+That's when I got into the DevOps/CloudOps space. \
 <br>
 <br>
-At my current job, I work with multiple clients in the CloudOps space. I manage their \
-cloud infrastructure in AWS. Since AWS offers a wide range of services, and each \
-client has different use cases, I've become familiar with lot's of various technologies \
-and have excelled at learning new things quickly."
+Today my main areas of expertise are in AWS and Kubernetes. I help manage  \
+dozens of environment's built on these technologies. We use ansible for \
+deployments and Terraform for environment provisioning. \
+<br>
+<br>
+Because of my background in software development, I am also proficient in Python and Docker."
 
 #sidebar links
 email: zacharysells@gmail.com
