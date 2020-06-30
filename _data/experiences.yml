@@ -30,6 +30,7 @@
   time: September 2017 - Ongoing
   company: Upwork
   details: 
+    - Wrote a python script to import large amounts of CSV data(~5 million rows) into an oracle database quickly. <a target="_blank" href="https://github.com/zacharysells/import-oracle">Source code</a>
     - Built Django web application that displays information about all AWS resources within a VPC
     - Created ECS cluster on AWS via Terraform and installed Jupyterhub services
     - Built and managed a Kubernetes cluster on GCP via Terraform and installed Airflow services
